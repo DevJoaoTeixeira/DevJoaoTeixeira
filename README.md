@@ -21,4 +21,4 @@ own network, with a real incident log instead of screenshots.
 Currently studying: Prometheus, Grafana, Datadog, Azure fundamentals (AZ-900 track)
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/jpteixeiraferreira/) · Araraquara, SP, Brazil (UTC-3) · Open to remote
+[LinkedIn](https://www.linkedin.com/in/devjoaopedroteixeira/) · Araraquara, SP, Brazil (UTC-3) · Open to remote
